@@ -51,7 +51,7 @@ export default function Header() {
 
         {!!user ? (
           <>
-            <div className='bg-gray-500 text-white rounded-full border border-green-500 overflow-hidden'>
+            <div className='bg-green-500 text-white rounded-full border border-green-500 overflow-hidden'>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
                 viewBox='0 0 24 24'
